@@ -1,1 +1,1 @@
-# corl2023submission212.github.io
+# Model-Based Dynamic Position and Orientation Control of a Hybrid Soft Continuum Manipulator
